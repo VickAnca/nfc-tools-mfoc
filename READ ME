@@ -1,2 +1,7 @@
+Compiling:
+    autoreconf -is
+    ./configure
+    make
 
-
+Running (most basic):
+    ./mfcuk -C -R 0:A -v 2
